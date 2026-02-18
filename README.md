@@ -18,7 +18,7 @@
 
 </br>
 
-1. Take your screenshot ingame, it should be a square and **at least 900px*900px**.  
+1. Take your screenshot ingame (go into "screenshot mode" by clicking the eye icon at bottom of screen in main menu to remove compass, and Shift+P ingame for free camera), it should be a square and **at least 900px*900px**.  
 Using a screenshot tool like [GreenShot](https://getgreenshot.org/)/[ShareX](https://getsharex.com/) helps a lot.  
 Format don't matter as i will convert everything to `.webp` with a script anyway.
 
